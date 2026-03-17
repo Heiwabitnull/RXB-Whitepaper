@@ -424,7 +424,7 @@ User bears full responsibility for their decisions and compliance of their actio
 
 with law applicable in their jurisdiction.
 
-Project website rxb.org
+Project website rxbcore.org
 
 Source code repository https://github.com/Heiwabitnull/rxb.git
 
